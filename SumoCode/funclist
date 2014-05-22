@@ -1,0 +1,9 @@
+_snsfwd: CODE, 1831 0 51
+_main: CODE, 1942 0 101
+_initOsc: CODE, 1729 0 1
+_initPorts: CODE, 1751 0 20
+__initialization: CODE, 2043 0 1
+_doFive: CODE, 1882 0 60
+_IRPingL: CODE, 1730 0 9
+_lightshow: CODE, 1739 0 12
+Total: 255
